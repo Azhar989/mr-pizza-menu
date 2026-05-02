@@ -431,7 +431,7 @@ export default function App() {
               </div>
             </div>
             <a
-              href="https://www.google.com/maps/search/Mr.+Pizza+Daska"
+              href="https://www.google.com/maps/search/?api=1&query=Mr+Pizza+Daska+College+Rd+Jalalpur+Ghumman+Daska+Pakistan"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-3 bg-white text-slate-900 font-black uppercase text-xs tracking-widest px-6 py-4 rounded-2xl hover:bg-yellow-400 transition-all active:scale-95 shadow-xl flex-shrink-0"
@@ -492,7 +492,7 @@ export default function App() {
           <div className="text-center mt-12">
             <p className="text-slate-400 text-sm mb-5">Loved your experience? Share it with the world!</p>
             <a
-              href="https://www.google.com/maps/search/Mr.+Pizza+Daska"
+              href="https://www.google.com/maps/search/?api=1&query=Mr+Pizza+Daska+College+Rd+Jalalpur+Ghumman+Daska+Pakistan"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-3 bg-yellow-500 text-black font-black uppercase text-sm tracking-widest px-10 py-5 rounded-2xl hover:bg-yellow-400 transition-all active:scale-95 shadow-2xl shadow-yellow-500/20"
@@ -527,7 +527,7 @@ export default function App() {
               <div>
                 <p className="text-slate-400 text-xs mb-1">Our Location</p>
                 <a
-                  href="https://maps.google.com/?q=Mr+Pizza+Daska,+College+Rd,+Jalalpur+Ghumman+Daska,+51010,+Pakistan"
+                  href="https://www.google.com/maps/search/?api=1&query=Mr+Pizza+Daska+College+Rd+Jalalpur+Ghumman+Daska+Pakistan"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-white font-medium hover:text-orange-400 transition-colors leading-relaxed"
