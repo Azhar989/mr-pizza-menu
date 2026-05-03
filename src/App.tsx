@@ -111,7 +111,7 @@ export default function App() {
           <span className="hidden sm:block w-px h-3 bg-black/30" />
           <span className="flex items-center gap-1.5">⏰ Open Daily: 11 AM – 2 AM</span>
           <span className="hidden sm:block w-px h-3 bg-black/30" />
-          <a href="tel:03001514920" className="flex items-center gap-1.5 hover:underline">📞 03001514920</a>
+          <a href="tel:0300-1188459" className="flex items-center gap-1.5 hover:underline">📞 0300-1188459</a>
         </div>
       </div>
 
@@ -140,7 +140,7 @@ export default function App() {
           <button onClick={() => document.getElementById('search-input')?.focus()} className="bg-[#111] p-3 rounded-full border border-slate-800 text-slate-300 hover:text-yellow-500 hover:border-yellow-500 transition-colors relative active:scale-95">
             <Search size={20} />
           </button>
-          <a href="https://wa.me/923001514920?text=Hi%20Mr.%20Pizza,%20I'd%20like%20to%20place%20an%20order." target="_blank" rel="noopener noreferrer" className="bg-yellow-500 p-3 rounded-full text-black hover:bg-yellow-400 transition-all hover:shadow-[0_0_20px_rgba(234,179,8,0.4)] active:scale-95 relative group flex items-center justify-center">
+          <a href="https://wa.me/923476661140?text=Hi%20Mr.%20Pizza,%20I'd%20like%20to%20place%20an%20order." target="_blank" rel="noopener noreferrer" className="bg-yellow-500 p-3 rounded-full text-black hover:bg-yellow-400 transition-all hover:shadow-[0_0_20px_rgba(234,179,8,0.4)] active:scale-95 relative group flex items-center justify-center">
             <ShoppingCart size={20} />
           </a>
         </div>
@@ -391,7 +391,7 @@ export default function App() {
 
       {/* WhatsApp Button */}
       <a
-        href="https://wa.me/923001514920"
+        href="https://wa.me/923476661140"
         target="_blank"
         rel="noopener noreferrer"
         className="fixed bottom-24 right-8 z-[60] bg-[#25D366] text-white p-4 rounded-2xl shadow-2xl hover:scale-110 active:scale-95 transition-all flex items-center gap-2 group"
@@ -537,11 +537,11 @@ export default function App() {
               </div>
               <div>
                 <p className="text-slate-400 text-xs mb-1">Call to Order</p>
-                <a href="tel:0300-1514920" className="text-2xl font-bold font-sans tracking-tight text-orange-400 block hover:underline">0300-1514920 </a>
-                <a href="tel:0343-7655078 " className="text-lg text-slate-300 mt-1 block hover:underline">03437655078</a>
+                <a href="tel:0300-1188459" className="text-2xl font-bold font-sans tracking-tight text-orange-400 block hover:underline">0300-1188459 </a>
+                <a href="tel:0347-6661140 " className="text-lg text-slate-300 mt-1 block hover:underline">03476661140</a>
               </div>
               <a
-                href="https://wa.me/923001514920?text=Hi%20Mr.%20Pizza,%20I'd%20like%20to%20place%20an%20order."
+                href="https://wa.me/923476661140?text=Hi%20Mr.%20Pizza,%20I'd%20like%20to%20place%20an%20order."
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 bg-[#25D366] px-6 py-3 rounded-xl text-white font-bold text-xs uppercase tracking-widest hover:brightness-110 transition-all"
